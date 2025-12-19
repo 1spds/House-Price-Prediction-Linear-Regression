@@ -1,7 +1,12 @@
+
 # House Price Predictor
+
 A beginner-friendly machine learning project that uses Linear Regression to predict housing prices based on various features in the California Housing dataset.
+
 ## Version 1.0: Linear Regression
+
 ### Objective
+
 To build and evaluate a Linear Regression model that predicts median house prices in California districts based on various socio-economic and geographic features.
 
 ### Introduction
@@ -59,17 +64,17 @@ In this project, we aim to **predict housing prices in California** using **Line
 
    - Use feature engineering (e.g., rooms per household).
 
-
-
 ## Version 2.0: Polynomial Regression
+
 ### Objective
+
 To build and evaluate a Polynomial Regression model that predicts median house prices in California districts by capturing non-linear relationships between socio-economic and geographic features, thereby improving prediction accuracy over a simple linear model.
 
 ### Introduction
+
 In this version of the project, we enhance the housing price prediction model by applying Polynomial Regression. This approach captures nonlinear relationships among features by introducing interaction and squared terms. Polynomial regression is a generalization of linear regression and allows the model to better fit the complex patterns present in the data.
 
 ### Project Workflow
-
 
 1. **About this File** 
    Same dataset as before: housing data from the 1990 U.S. Census for California, including features like latitude, longitude, total rooms, population, and median income.
